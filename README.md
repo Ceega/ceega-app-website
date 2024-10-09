@@ -1,2 +1,3 @@
-# ceega-app-website
+# Ceega.app website
+
 Website for ceega.app
